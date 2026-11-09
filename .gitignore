@@ -1,0 +1,10 @@
+node_modules
+.output
+.dist
+dist
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+routeTree.gen.ts
